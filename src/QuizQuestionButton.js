@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { link } from 'fs';
 
 class QuizQuestionButton extends Component {
     constructor(props) {
